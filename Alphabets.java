@@ -11,6 +11,7 @@ public class Alphabets {
 					
 					for(int j=i;j<=5;j++) {
 						System.out.print((char)(j+64));
+						System.out.print(i);
 						
 					}
 					System.out.println(" ");
